@@ -1,0 +1,30 @@
+{
+    "locations": [
+      {
+        "id": "1",
+        "name": "Tyre City",
+        "description": "The ancient city of magic, capital city of the Tyrian Empire.",
+        "x": 120,
+        "y": 345,
+        "tags": ["city", "magic"]
+      },
+      {
+        "id": "2",
+        "name": "Darkwood Forest",
+        "description": "A mysterious forest, rumored to be haunted by spirits.",
+        "x": 560,
+        "y": 220,
+        "tags": ["forest", "haunted"]
+      },
+      {
+        "id": "3",
+        "name": "Mount Dread",
+        "description": "The tallest and most fearsome mountain in the realm.",
+        "x": 800,
+        "y": 100,
+        "tags": ["mountain"]
+      }
+      // Add more locations as needed
+    ]
+  }
+  
